@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1.1 (64-bit)
+# SW Build 5094488 on Fri Jun 14 08:57:50 MDT 2024
+# IP Build 5091682 on Fri Jun 14 16:55:04 MDT 2024
+# SharedData Build 5094118 on Fri Jun 14 01:09:43 MDT 2024
+# Start of session at: Sat Oct 24 23:40:07 2026
+# Process ID: 117538
+# Current directory: /home/koffiah/Workspace/FPGA/Vivado/project_blinkky/project_blinkky.runs/design_1_blinky_0_0_synth_1
+# Command line: vivado -log design_1_blinky_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_blinky_0_0.tcl
+# Log file: /home/koffiah/Workspace/FPGA/Vivado/project_blinkky/project_blinkky.runs/design_1_blinky_0_0_synth_1/design_1_blinky_0_0.vds
+# Journal file: /home/koffiah/Workspace/FPGA/Vivado/project_blinkky/project_blinkky.runs/design_1_blinky_0_0_synth_1/vivado.jou
+# Running On        :khoffy
+# Platform          :Ubuntu
+# Operating System  :Ubuntu 22.04.5 LTS
+# Processor Detail  :12th Gen Intel(R) Core(TM) i7-1255U
+# CPU Frequency     :1012.318 MHz
+# CPU Physical cores:10
+# CPU Logical cores :12
+# Host memory       :33325 MB
+# Swap memory       :8589 MB
+# Total Virtual     :41915 MB
+# Available Virtual :34174 MB
+#-----------------------------------------------------------
+source design_1_blinky_0_0.tcl -notrace
